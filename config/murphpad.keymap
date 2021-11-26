@@ -72,7 +72,7 @@
 		label = "fn layer";
             bindings = <
                 &trans      &trans        &trans         &trans        &trans
-                &trans      &kp KP_EQUAL  &kp LPAR       &kp RPAR      &trans
+                &trans      &kp EQUAL     &kp LPAR       &kp RPAR      &trans
                 &trans      &trans        &kp UP         &trans        &trans
                 &bt BT_CLR  &kp LEFT      &kp DOWN       &kp RIGHT     &trans
                 &trans      &trans        &trans         &trans        &trans
